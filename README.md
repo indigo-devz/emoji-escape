@@ -5,7 +5,7 @@
 ## 📥 Установка и запуск
 
 ```markdown
-git clone https://github.com/your-username/avoid-the-blocks.git
+git clone https://github.com/indigo-devz/emoji-escape.git
 cd emoji-escape
 
 ### Зависимости
