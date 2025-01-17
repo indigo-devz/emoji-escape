@@ -26,5 +26,5 @@ pip install pygame
 Теперь, когда все готово, вы можете запустить игру, используя следующую команду:
 
 ```bash
-python game.py
+python main.py
 ```
